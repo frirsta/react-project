@@ -2,31 +2,31 @@
 
 <br>
 
-* [**Project**](<##Project>)
-* [**Project Management**](<##Project-Management>)
-* [**Wireframes**](<##Wireframes>)
-* [**User Experience UX**](<##user-experience-ux>)
-* [**Features**](<##Features>)
-* [**Features Features**](<##Features-Features>)
-* [**Testing**](<##Testing>)
-* [**Technologies Used**](<##Technologies-Used>)
-* [**Bugs**](<##Bugs>)
-* [**Unfixed Bugs**](<##Unfixed-Bugs>)
-* [**Deployment**](<##Deployment>)
-* [**Credits**](<##Credits>)
-* [**Acknowledgement**](<##Acknowledgement>)
+* [**Project**](<#project>)
+* [**Project Management**](<#project-management>)
+* [**Wireframes**](<#wireframes>)
+* [**User Experience UX**](<#user-experience-ux>)
+* [**Features**](<#features>)
+* [**Future Features**](<#future-features>)
+* [**Testing**](<#testing>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Bugs**](<#bugs>)
+* [**Unfixed Bugs**](<#unfixed-bugs>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+* [**Acknowledgement**](<#acknowledgement>)
 
 <br>
 
-## Project
+# Project
 
 <br>
 
-## Project Management
+# Project Management
 
 <br>
 
-## Wireframes
+# Wireframes
 
 ### I have used [Miro](https://miro.com/) to create WireFrames for the project.
 
@@ -84,40 +84,40 @@
 
 <br>
 
-## User Experience UX
+# User Experience UX
 
 <br>
 
-## Features
+# Features
 
 <br>
 
-## Future Features
+# Future Features
 
 <br>
 
-## Testing
+# Testing
 
 <br>
 
-## Technologies used
+# Technologies used
 
 <br>
 
-## Bugs
+# Bugs
 
 <br>
 
-## Unfixed Bugs
+# Unfixed Bugs
 
 <br>
 
-## Deployment
+# Deployment
 
 <br>
 
-## Credits
+# Credits
 
 <br>
 
-## Acknowledgement
+# Acknowledgement
