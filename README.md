@@ -104,6 +104,8 @@
 
 libraries
 npm install react-bootstrap bootstrap
+npm install react-router-dom
+npm install axios
 
 <br>
 
@@ -120,6 +122,7 @@ npm install react-bootstrap bootstrap
 <br>
 
 # Credits
+<a href="https://www.flaticon.com/free-icons/camera" title="camera icons">Camera icons created by Good Ware - Flaticon</a>
 
 <br>
 

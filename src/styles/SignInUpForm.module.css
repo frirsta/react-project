@@ -1,0 +1,14 @@
+.Form{
+    background-color: rgb(169, 169, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.FormContainer{
+    margin-top: 25vh;
+}
+
+.FormButton{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
