@@ -102,6 +102,9 @@
 
 # Technologies used
 
+libraries
+npm install react-bootstrap bootstrap
+
 <br>
 
 # Bugs
