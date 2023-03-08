@@ -5,7 +5,7 @@ import { Link, useHistory } from "react-router-dom";
 import { Alert, Button, Col, Container, Row} from "react-bootstrap";
 import axios from "axios";
 
-const SignInUpForm = () => {
+const SignUpForm = () => {
   const [ signUpData, setSignUpData ] = useState({
     username: "",
     password1: "",
@@ -16,7 +16,7 @@ const SignInUpForm = () => {
 
   const [errors, setErrors] = useState({
 
-  })
+  });
 
   const history = useHistory();
 
@@ -91,4 +91,4 @@ const SignInUpForm = () => {
   );
 };
 
-export default SignInUpForm;
+export default SignUpForm;
